@@ -10,3 +10,5 @@ Installation-
 Make sure to add http://poomsmart.github.io/repo/ and http://smacpats.github.io/repo/ in your sources.
 
 After that, search for “EmojiPort Installer (Android P emojis)” and install it. That should be it. 
+
+Android P .ttc link if you wanted it for some reason- https://github.com/smacpats/emojiport-installer-androidP/blob/master/emojiport-installer-androidP/var/mobile/Documents/EmojiPortInstaller/121emojis/AppleColorEmoji@2x.ttc?raw=true
