@@ -1,0 +1,10 @@
+Package: io.smacpats.emojiportinstallerAndroidP
+Name: EmojiPort Installer (Android P emojis)
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.ps.emojiportwt, mobilesubstrate, firmware (>> 9.3.5)
+Conflicts: io.smacpats.emojiportinstaller
+Author: Smacpats
+Section: EmojiPort
+Description: Install emojiport and Android P emojis automatically
+Maintainer: smacpats
